@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="select_blue">#E3F2FD</color>
+    <color name="txt_grey">#566573</color>
+    <color name="grey">#78909C</color>
+
+    <color name="tab_select">#e3f2fd</color>
+    <color name="tab_text">#4dffffff</color>
+    <color name="tab_bg">#4d8fff</color>
+
+    <color name="indicator">#ff31415a</color>
+    <color name="bg_actionbar">#5a84ef</color>
+
+    <color name="txt_red">#ab1419</color>
+    <color name="txt_gray">#f2f2f2</color>
+    <color name="txt_hint">#B6B6B6</color>
+    <color name="bt_solid">#ffecd9</color>
+
+</resources>
